@@ -237,14 +237,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "22859713e0a833fb",
+  "active": "65a4e024a3f93730",
   "lastOpenFiles": [
+    "2025-01-29.md",
+    "System/VIM Befehls Übersicht.md",
+    "System/Alias Übersicht.md",
     "noch ein test",
     "Unbenannt.md",
-    "System/VIM Befehls Übersicht.md",
     "sync-test.md",
     "test.md",
-    "System/Alias Übersicht.md",
     "textgenerator/templates/default/getEmailNeg.md",
     "textgenerator/templates/default/summarizeLarge.md",
     "textgenerator/templates/default/summarize.md",
