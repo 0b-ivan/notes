@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "System/VIM Befehls Übersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "VIM Befehls Übersicht"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "65a4e024a3f93730",
   "lastOpenFiles": [
-    "System/VIM Befehls Übersicht.md",
     "Unbenannt.md",
+    "System/VIM Befehls Übersicht.md",
     "sync-test.md",
     "test.md",
     "System/Alias Übersicht.md",
