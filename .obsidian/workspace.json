@@ -237,8 +237,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "65a4e024a3f93730",
+  "active": "22859713e0a833fb",
   "lastOpenFiles": [
+    "noch ein test",
     "Unbenannt.md",
     "System/VIM Befehls Übersicht.md",
     "sync-test.md",
@@ -270,7 +271,6 @@
     "textgenerator/templates/trash/default/getEmailNeg.md",
     "textgenerator/templates/trash/default/summarizeLarge.md",
     "textgenerator/templates/trash/default/summarize.md",
-    "textgenerator/templates/trash/default/simplify.md",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash"
   ]
