@@ -1,6 +1,6 @@
 {
   "remoteURL": "git@github.com:0b-ivan/notes.git",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 1,
   "isSyncOnLoad": true
 }
