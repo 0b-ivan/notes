@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "361e366456d65d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b975c6f6ccb2cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d9f498b4747131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "af2a40693f90d411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Alias Übersicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alias Übersicht"
+            }
+          },
+          {
+            "id": "8cf5a49d1108e528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Alias Übersicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alias Übersicht"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02d3abdad6654573",
+    "type": "split",
+    "children": [
+      {
+        "id": "57879b14c4e48cb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22859713e0a833fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "3261dd36202207f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "2c40b1f4a91bb845",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "7dfd790476b0cb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e933d12b8e61ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c20d4914cbf1db4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Welcome"
+            }
+          },
+          {
+            "id": "0d2492cd74ea177c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Welcome öffnen"
+            }
+          },
+          {
+            "id": "07f74ba2eb6e5afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8823feb194b6a2b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Welcome"
+            }
+          },
+          {
+            "id": "45766a42b3fd4473",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "companion:Toggle completion": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8cf5a49d1108e528",
+  "lastOpenFiles": [
+    "System/VIM Befehls Übersicht.md",
+    "System/Alias Übersicht.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "x.canvas",
+    "System",
+    "AWS Houskeeping.md",
+    "user-data.md",
+    "Testdoku.md",
+    "Recording 20250128141549.m4a",
+    "Service-API 20.01.2025.md",
+    "Install Obsidian-Live-Sync.md",
+    "CouchDB-Setup.md",
+    "textgenerator/templates/trash/default/getEmailNeg.md",
+    "textgenerator/templates/trash/default/summarizeLarge.md",
+    "textgenerator/templates/trash/default/summarize.md",
+    "textgenerator/templates/trash/default/simplify.md",
+    "textgenerator/templates/trash/default/rewrite.md",
+    "textgenerator/templates/trash/default/getTitles.md",
+    "textgenerator/templates/trash/default/getTags.md",
+    "textgenerator/templates/trash/default",
+    "textgenerator/templates/trash"
+  ]
+}
